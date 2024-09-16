@@ -1,0 +1,26 @@
+Atividade 1- Não consegui fazer pois não consegui entender
+Atividade 2- Não consegui fazer pois não consegui entender
+Atividade 3- idade = print(input("Digite aqui sua idade:"))
+
+if idade >= 18 :
+    print("Você possui a idade necessária")
+else: 
+    idade < 18
+    print("Você não possui a idade necessária")
+não terminei a tempo e tive dificuldade
+Atividade 4- nota_de_portugues = print(input("Digite aqui sua nota:"))
+
+nota_de_matematica = print(input("Digite aqui sua nota:"))
+
+if nota_de_matematica >= 6:
+    print("Aprovado")
+else:
+    print("Reprovado")
+
+if nota_de_portugues >= 6:
+    print("Aprovado")
+else:
+    print("Reprovado")
+não consegui terminar, pois não consegui fazer e não deu tempo
+Atividade 5- Não consegui fazer
+Atividade 6- Não consegui fazer
